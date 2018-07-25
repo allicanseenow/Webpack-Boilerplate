@@ -40,3 +40,6 @@ typings
 
 # Generated webpack files
 server/dist
+
+# WebStorm files
+.idea
